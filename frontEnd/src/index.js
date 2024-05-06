@@ -1,0 +1,1 @@
+console.log(" this is not having .env and node module");
